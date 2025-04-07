@@ -1,4 +1,5 @@
-#Mit diesem Skript begrüße ich euch 
+#Mit diesem Skript begrüße ich euch
+# 07.04.2025 
 echo "Hallo zusammen"
 
 for FILE in *txt
